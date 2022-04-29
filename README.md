@@ -5,6 +5,9 @@
 ## Description
 A web based text editor with auto save functionallity. Additionally the editor is a PWA so it can be used offline and have the same text saved
 
+<img width="958" alt="Screen Shot 2022-04-28 at 11 54 48 PM" src="https://user-images.githubusercontent.com/43100954/165897762-a1f24891-bc3c-4331-b1b9-6ad95418f069.png">
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
